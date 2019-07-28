@@ -10,7 +10,7 @@ Prerequisites
 1.Java
 2.Maven
 3.Selenium
-4.Testng
+4.TestNG
 5.git
 
 Steps
